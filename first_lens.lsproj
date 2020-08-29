@@ -3,7 +3,7 @@
     "document_id": "9C66sOxQHPXg8RYokMtF",
     "original_document_id": "9C66sOxQHPXg8RYokMtF",
     "version": "24",
-    "lastChanged": "1598734138233",
+    "lastChanged": "1598740434370",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -98,7 +98,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Pair 2.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Pair 1.jpg",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -112,11 +112,11 @@
                 "spectacles_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
-                "back_preview_id": "",
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/House",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/House",
                 "front_preview_is_favorite": "false",
-                "spectacles_preview_id": "",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/House",
                 "spectacles_preview_is_favorite": "false"
             }
         },
@@ -408,7 +408,7 @@
                     },
                     {
                         "k": "7744",
-                        "v": "6396209ef392dec66b52723f44506cb3"
+                        "v": "57b1b13aae46d9f65e828be9f5a5cb40"
                     },
                     {
                         "k": "7745",
@@ -422,9 +422,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-30T01:45:24",
+                        "lastModified": "2020-08-30T02:18:57",
                         "name": "Public",
-                        "hash": "e2c8aef9935ac7ccf62324a3ff8f4957",
+                        "hash": "fcab066f5cff5b8a7fd70c091febc27b",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -442,9 +442,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-30T00:18:11",
+                                "lastModified": "2020-08-30T02:18:57",
                                 "name": "Color Correction.lsmat",
-                                "hash": "4bad2d04751ae8238524e541fd963322",
+                                "hash": "6396209ef392dec66b52723f44506cb3",
                                 "children": ""
                             },
                             {
@@ -477,7 +477,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-30T00:18:10",
+                                "lastModified": "2020-08-30T02:18:57",
                                 "name": "Textures",
                                 "hash": "7fd79ae1b8500bffe2c72e5e9516626b",
                                 "children": [
