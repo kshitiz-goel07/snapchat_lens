@@ -8,6 +8,6 @@ My First Snapchat Lens...Try it , Share it ❤️
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="screenshots/ss1.png" width="250" height="500">
 <br><br>
-<img src="screenshots/ss3.png" width="250" height="500" >
+<img src="screenshots/ss4.png" width="250" height="500" >
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="screenshots/ss4.png" width="250" height="500">
+<img src="screenshots/ss3.png" width="250" height="500">
